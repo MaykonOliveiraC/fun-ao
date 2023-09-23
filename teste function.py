@@ -1,5 +1,5 @@
-def saudacao(msg, nome ):
-    print(msg, nome)
+def saudacao(msg):
+    print('msg')
 
 
-saudacao('eu posso escrever o que eu quiser aqui', 'luiz junior')
+saudacao('Teste, teste, teste,teste ')
